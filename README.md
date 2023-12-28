@@ -26,3 +26,10 @@ To complete the deployment of the backend file so that login signup works proper
 
 Please try using google auth 1-2 times, if not working.
 
+## Screenshot
+![Screenshot 2023-12-28 at 7 52 55 PM](https://github.com/Mansikushwaha12/XenonStack-Tech-Assignment/assets/103202468/60782b5e-327c-420d-abe0-2ce3eecb51b4)![Screenshot 2023-12-28 at 7 53 12 PM](https://github.com/Mansikushwaha12/XenonStack-Tech-Assignment/assets/103202468/0925f741-f3d9-4080-9e98-0290a34ae30a)
+![Screenshot 2023-12-28 at 7 54 28 PM](https://github.com/Mansikushwaha12/XenonStack-Tech-Assignment/assets/103202468/8f0a2e70-bf32-43c7-8df9-8128e21e2e5d)
+![Screenshot 2023-12-28 at 7 54 34 PM](https://github.com/Mansikushwaha12/XenonStack-Tech-Assignment/assets/103202468/0985d924-31a2-4cdb-8e9e-6e1c973cb15c)
+
+
+
