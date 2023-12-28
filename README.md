@@ -22,5 +22,7 @@ The backend handles user authentication, including login and registration, with 
 
 To complete the deployment of the backend file so that login signup works properly. Currently, only Google Signup is working on the deployed link.
 
+## Note
 
+Please try using google auth 1-2 times, if not working.
 
