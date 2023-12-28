@@ -1,12 +1,12 @@
 # Project Overview
 
-**Deployment Link:** (https://listed-dashboard-online.netlify.app/)
+**Deployment Link:** (https://dashboard-online.netlify.app/)
 
 **Tech Stack:** ReactJS, ChartJs, Node.js, MongoDB, Express.js
 
 ## Overview
 
-This project is a full-stack application built with ReactJS, ChartJs, Node.js, MongoDB, and Express.js. The deployment is accessible [here](https://listed-dashboard-online.netlify.app/).
+This project is a full-stack application built with ReactJS, ChartJs, Node.js, MongoDB, and Express.js. The deployment is accessible [here](https://dashboard-online.netlify.app/).
 
 ## Backend Functionality
 
