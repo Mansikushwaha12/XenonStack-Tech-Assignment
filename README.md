@@ -1,12 +1,12 @@
 # Project Overview
 
-**Deployment Link:** (https://dashboard-online.netlify.app/)
+**Deployment Link:** (https://genuine-chebakia-fed330.netlify.app/)
 
 **Tech Stack:** ReactJS, ChartJs, Node.js, MongoDB, Express.js
 
 ## Overview
 
-This project is a full-stack application built with ReactJS, ChartJs, Node.js, MongoDB, and Express.js. The deployment is accessible [here](https://dashboard-online.netlify.app/).
+This project is a full-stack application built with ReactJS, ChartJs, Node.js, MongoDB, and Express.js. The deployment is accessible [here](https://genuine-chebakia-fed330.netlify.app/).
 
 ## Backend Functionality
 
